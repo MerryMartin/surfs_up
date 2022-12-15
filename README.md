@@ -20,10 +20,10 @@ Provide a bulleted list with three major points from the two analysis deliverabl
 * The minimum temperature over the years analyzed was 64.00 degrees for June and 56.00 degrees for December.
 * The maximum temperature for June was slightly higher that that of December,  85.00 degreen and 83.00 degrees, respectively. 
 
-(insert June image)
+![June Summary Stats](https://user-images.githubusercontent.com/115426070/207927353-4d938d18-9b98-4760-881e-546d24c32540.png)
 
-(insert December image)
 
+![December Summary Stats](https://user-images.githubusercontent.com/115426070/207927398-ecebd479-f50c-4083-9bf9-5a2ca2594a3e.png)
 
 
 
@@ -39,7 +39,8 @@ Provide a bulleted list with three major points from the two analysis deliverabl
 ** annual_results = session.query(Measurement.date, Measurement.tobs).all()
 
 
-(insert image of annual results)
+![Annual Results](https://user-images.githubusercontent.com/115426070/207927440-2785044f-6591-4af6-b687-f51dec18b01d.png)
+
 
 
 
@@ -47,5 +48,6 @@ Provide a bulleted list with three major points from the two analysis deliverabl
 
 ** annual_rain_results = session.query(Measurement.date, Measurement.prcp).all()  
 
+![Annual Rain Results](https://user-images.githubusercontent.com/115426070/207927469-f56fd973-3538-4182-a3e5-4d941ae4cf0f.png)
 
-(insert image of annual rain results)
+
