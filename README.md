@@ -36,7 +36,7 @@
 ### Additional Analysis
 * I would suggest we use another query to study the temperature data for all months of the year, to ensure that the shop could stay open year-round.
 
-** annual_results = session.query(Measurement.date, Measurement.tobs).all()
+   * Example:  annual_results = session.query(Measurement.date, Measurement.tobs).all()
 
 
 ![Annual Results](https://user-images.githubusercontent.com/115426070/207927440-2785044f-6591-4af6-b687-f51dec18b01d.png)
@@ -46,7 +46,7 @@
 
 * I would also suggest that we use another query to study the precipitation for the area, to make sure that too much rain wouldn't hurt our new business.
 
-** annual_rain_results = session.query(Measurement.date, Measurement.prcp).all()  
+   * Example:  annual_rain_results = session.query(Measurement.date, Measurement.prcp).all()  
 
 ![Annual Rain Results](https://user-images.githubusercontent.com/115426070/207927469-f56fd973-3538-4182-a3e5-4d941ae4cf0f.png)
 
