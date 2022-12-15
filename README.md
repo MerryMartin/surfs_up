@@ -1,7 +1,7 @@
 # surfs_up
 
 ## Project Overview
-### I want to open a Surf and Shake shop in Hawaii and my potential investor wants to see some weather analysis for the area before he invests.  
+### I want to open a Surf and Shake shop in Hawaii and my potential investor wants to see some weather analysis for the area before he invests.  Specifically, I have prepared a temperature analysis for two different months to ensure that temperature fluctuations wouldn't prevent the surf shop would be viable year-round. 
 
 ## Resources
 ### Analysis was done with the following resources:
@@ -16,17 +16,15 @@
 
 ## Results
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.  There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-* The average temperatur in June is 74.94 degrees and the minimum temperature over the years analyzed was 64.00 degrees.
+* The average temperature in June is 74.94 degrees while the average temperature in December is slightly lower, 71.04 degrees.  
+* The minimum temperature over the years analyzed was 64.00 degrees for June and 56.00 degrees for December.
+* The maximum temperature for June was slightly higher that that of December,  85.00 degreen and 83.00 degrees, respectively. 
 
 (insert June image)
 
-
-* The average temperatur in December is 71.04 degrees and the minimum temperature over the years analyzed was 56.00 degrees.
-
-
 (insert December image)
 
-* The maximum temperature for both June and December was 85.00 degreen and 83.00 degrees, respectively. 
+
 
 
 
