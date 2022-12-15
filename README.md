@@ -10,9 +10,9 @@
     * hawaii.sqlite
 
 * Software:
-   ** Python version 3.9.12
-   ** Jupyter Notebook 6.4.12
-   ** SQLAlchemy 1.4.39
+   * Python version 3.9.12
+   * Jupyter Notebook 6.4.12
+   * SQLAlchemy 1.4.39
 
 ## Results
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.  There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
