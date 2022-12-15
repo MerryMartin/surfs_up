@@ -15,7 +15,7 @@
    * SQLAlchemy 1.4.39
 
 ## Results
-Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.  There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
+
 * The average temperature in June is 74.94 degrees while the average temperature in December is slightly lower, 71.04 degrees.  
 * The minimum temperature over the years analyzed was 64.00 degrees for June and 56.00 degrees for December.
 * The maximum temperature for June was slightly higher that that of December,  85.00 degreen and 83.00 degrees, respectively. 
