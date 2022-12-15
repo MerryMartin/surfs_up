@@ -39,7 +39,7 @@
    * Example:  annual_results = session.query(Measurement.date, Measurement.tobs).all()
 
 
-![Annual Results](https://user-images.githubusercontent.com/115426070/207927440-2785044f-6591-4af6-b687-f51dec18b01d.png)
+
 
 
 
@@ -48,6 +48,6 @@
 
    * Example:  annual_rain_results = session.query(Measurement.date, Measurement.prcp).all()  
 
-![Annual Rain Results](https://user-images.githubusercontent.com/115426070/207927469-f56fd973-3538-4182-a3e5-4d941ae4cf0f.png)
+
 
 
