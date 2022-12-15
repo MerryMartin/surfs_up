@@ -1,7 +1,7 @@
 # surfs_up
 
 ## Project Overview
-### I want to open a Surf and Shake shop in Hawaii and my potential investor wants to see some weather analysis for the area before he invests.  Specifically, I have prepared a temperature analysis for two different months to ensure that temperature fluctuations wouldn't prevent the surf shop would be viable year-round. 
+### I want to open a Surf and Shake shop in Hawaii and my potential investor wants to see some weather analysis for the area before he invests.  Specifically, I have prepared a temperature analysis for two different months to ensure that temperature fluctuations wouldn't prevent the surf shop from being viable year-round. 
 
 ## Resources
 ### Analysis was done with the following resources:
