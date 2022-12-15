@@ -7,7 +7,7 @@
 ### Analysis was done with the following resources:
 
 * Data Source:
-   ** hawaii.sqlite
+    * hawaii.sqlite
 
 * Software:
    ** Python version 3.9.12
