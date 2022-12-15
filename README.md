@@ -17,8 +17,8 @@
 ## Results
 
 * The average temperature in June is 74.94 degrees while the average temperature in December is slightly lower, 71.04 degrees.  
-* The minimum temperature over the years analyzed was 64.00 degrees for June and 56.00 degrees for December.
-* The maximum temperature for June was slightly higher that that of December,  85.00 degreen and 83.00 degrees, respectively. 
+* The minimum temperature recorded, over the years analyzed, was 64.00 degrees for June and 56.00 degrees for December.
+* The maximum temperature for June was slightly higher that that of December,  85.00 degrees and 83.00 degrees, respectively. 
 
 ![June Summary Stats](https://user-images.githubusercontent.com/115426070/207927353-4d938d18-9b98-4760-881e-546d24c32540.png)
 
